@@ -3,8 +3,14 @@
 # Skills
 Batch --> Full
 
-PowerShell --> Partial
+AutoHotkey --> Full
 
-CSS --> Partial
+CSS --> Full
+
+HTML --> Full
+
+JavaScript --> Full
+
+PowerShell --> Partial
 
 C --> Minimal
