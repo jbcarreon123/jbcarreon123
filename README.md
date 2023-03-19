@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/86447165/226178579-e9bb452d-4adc-4382-9edd-427d9c8bc037.png" alt="banner" /></p>
+
 # Hello! 👋
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=I'm+jbcarreon123%2C+a+developer+that+develop+open-source+projects+as+a+hobby.;I'm+part+of+the+Macro+Deck+development+team." alt="Typing SVG" /></a></p>
 
