@@ -5,9 +5,11 @@
 
 ## My Stats
 ### Overall
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbcarreon123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbcarreon123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbcarreon123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Wakatime
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jbcarreon123)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects that I am involved with
 ### Macro Deck
