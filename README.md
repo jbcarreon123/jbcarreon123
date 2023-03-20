@@ -9,7 +9,7 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbcarreon123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jbcarreon123)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0b44475e-2a53-45cc-859d-11f3950db594&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects that I am involved with
 ### Macro Deck
