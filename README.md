@@ -3,6 +3,8 @@
 # Hello! 👋
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=I'm+jbcarreon123%2C+a+developer+that+develop+open-source+projects+as+a+hobby.;I'm+part+of+the+Macro+Deck+development+team." alt="Typing SVG" /></a></p>
 
+## [I have a Discord Server!](https://discord.gg/P5ecFZNyCc)
+
 ## My Stats
 ### Overall
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbcarreon123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
